@@ -8,8 +8,9 @@ Realize o Download BDGD - [Manual passo a passo para acesso aos dados](http://ww
 
 ## Pré-requisitos:
 1. Faça o download do projeto
-2. Instale o Qgis - Para manipulação dos Arquivos Gdb.
-6. Instale o Python package **Pandas**
-7. Instale o SQL toolkit **Sqlalchemy**
+2. Instale o software Qgis - Para manipulação dos Arquivos Gdb.
+3. Python 3.8 ou posterior
+4. Instale o Python package **Pandas**
+5. Instale o SQL toolkit **Sqlalchemy**
 
 ## Funcionalidades - 🚧
